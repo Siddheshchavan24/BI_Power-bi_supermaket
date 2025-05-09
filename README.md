@@ -14,7 +14,8 @@ This is a Power BI dashboard built on the popular **Superstore dataset** to visu
 - Profitability Heatmap
 
 ## 📊 Dashboard Preview
-> Add screenshots or export to PNG and include here
+![supermarket](https://github.com/user-attachments/assets/036f1b80-1df0-4dd2-97a2-29ea1db0da67)
+
 
 ## 📁 Files Included
 - `Sample - Superstore.xls` – Raw dataset
@@ -32,4 +33,4 @@ This is a Power BI dashboard built on the popular **Superstore dataset** to visu
 
 ## 🔗 Author
 **Siddhesh** – Aspiring BI Engineer  
-Connect with me on [LinkedIn]()
+Connect with me on [LinkedIn](www.linkedin.com/in/siddheshchavan24)
