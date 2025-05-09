@@ -16,7 +16,6 @@ This is a Power BI dashboard built on the popular **Superstore dataset** to visu
 ## 📊 Dashboard Preview
 ![supermarket](https://github.com/user-attachments/assets/036f1b80-1df0-4dd2-97a2-29ea1db0da67)
 
-
 ## 📁 Files Included
 - `Sample - Superstore.xls` – Raw dataset
 - `supermarket.pbix` – Power BI report file
