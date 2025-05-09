@@ -32,4 +32,4 @@ This is a Power BI dashboard built on the popular **Superstore dataset** to visu
 
 ## 🔗 Author
 **Siddhesh** – Aspiring BI Engineer  
-Connect with me on [LinkedIn](www.linkedin.com/in/siddheshchavan24)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddheshchavan24/)
